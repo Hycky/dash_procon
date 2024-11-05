@@ -1,0 +1,10 @@
+name: primeiroappshiny
+title:
+username: hhenriquecorp
+account: hhenriquecorp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13242102
+bundleId: 9319790
+url: https://hhenriquecorp.shinyapps.io/primeiroappshiny/
+version: 1
